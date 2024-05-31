@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Паттерны лаб 2\Паттерны лаб 2\bin\Debug\Паттерны лаб 2.exe.config
+\\Mac\Home\Desktop\Паттерны лаб 2\Паттерны лаб 2\bin\Debug\Паттерны лаб 2.exe
+\\Mac\Home\Desktop\Паттерны лаб 2\Паттерны лаб 2\bin\Debug\Паттерны лаб 2.pdb
+\\Mac\Home\Desktop\Паттерны лаб 2\Паттерны лаб 2\obj\Debug\Паттерны лаб 2.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Паттерны лаб 2\Паттерны лаб 2\obj\Debug\Паттерны лаб 2.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Паттерны лаб 2\Паттерны лаб 2\obj\Debug\Паттерны_лаб_2.Form1.resources
+\\Mac\Home\Desktop\Паттерны лаб 2\Паттерны лаб 2\obj\Debug\Паттерны_лаб_2.Properties.Resources.resources
+\\Mac\Home\Desktop\Паттерны лаб 2\Паттерны лаб 2\obj\Debug\Паттерны лаб 2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Паттерны лаб 2\Паттерны лаб 2\obj\Debug\Паттерны лаб 2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Паттерны лаб 2\Паттерны лаб 2\obj\Debug\Паттерны лаб 2.exe
+\\Mac\Home\Desktop\Паттерны лаб 2\Паттерны лаб 2\obj\Debug\Паттерны лаб 2.pdb
+\\Mac\Home\Documents\Университет\7 семестр\Старостин\Паттерны лаб 2\Паттерны лаб 2\obj\Debug\Паттерны лаб 2.exe
+\\Mac\Home\Documents\Университет\7 семестр\Старостин\Паттерны лаб 2\Паттерны лаб 2\obj\Debug\Паттерны лаб 2.pdb
